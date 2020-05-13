@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Lalezar&display=swap');
+*{
+    font-family: 'Lalezar', cursive;  
+}
+body{
+    background-image: url(air1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container-1{
+    margin-top: 2%;
+    margin-right: 3%;
+    width: 40%;
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+    justify-content: space-around;
+}
